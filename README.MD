@@ -16,6 +16,7 @@ Este é o meu primeiro repositório no GitHub. Estou começando minha jornada no
 - CSS
 - JavaScript
 - Git e GitHub
+- Python
 
 ## 🎯 Objetivo
  
