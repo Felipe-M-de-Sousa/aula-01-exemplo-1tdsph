@@ -1,8 +1,8 @@
 # 🚀 Meu Primeiro Repositório
 
 **Teste de conflito**
-# XXXXXXXXXXXXXXXXXXXXXXXXX
-# YYYYYYYYYYYYYYYYYYYYYYYYY
+# XXXXXXXXXX
+# YYYYYYYYYY
 **Teste de conflito**
 
 Olá, mundo! 👋
